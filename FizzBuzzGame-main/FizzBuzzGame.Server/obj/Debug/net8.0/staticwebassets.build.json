@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SsggsxrNkso3SaTE/oA8AJfEKuwO026LnEfTvixrOew=",
+  "Source": "FizzBuzzGame.Server",
+  "BasePath": "_content/FizzBuzzGame.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

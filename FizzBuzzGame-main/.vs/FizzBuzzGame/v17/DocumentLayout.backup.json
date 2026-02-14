@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server.tests\\gameruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|solutionrelative:fizzbuzzgame.server.tests\\gameruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|solutionrelative:fizzbuzzgame.server.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server.tests\\attempttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|solutionrelative:fizzbuzzgame.server.tests\\attempttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server.tests\\fizzbuzzgame.server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94CF9DC2-FE90-475E-BD74-EEC59A3731D7}|FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj|solutionrelative:fizzbuzzgame.server.tests\\fizzbuzzgame.server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\data\\fizzbuzzgamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\data\\fizzbuzzgamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\dtos\\attemptdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\dtos\\attemptdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\iservices\\iattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\iservices\\iattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\iservices\\igameruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\iservices\\igameruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\irepositories\\igamerulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\irepositories\\igamerulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\irepositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\irepositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\interfaces\\irepositories\\iattemptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\interfaces\\irepositories\\iattemptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\repositories\\attemptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\repositories\\attemptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\mappers\\attemptmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\mappers\\attemptmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\ownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\ownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\gamerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\gamerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\fizzbuzzgame.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\fizzbuzzgame.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\controllers\\gamerulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\controllers\\gamerulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\controllers\\attemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\controllers\\attemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\mappers\\gamemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\mappers\\gamemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\mappers\\gamerulemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\mappers\\gamerulemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\services\\gameruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\services\\gameruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\services\\attemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\services\\attemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\repositories\\gamerulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\repositories\\gamerulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\dtos\\gameruledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\dtos\\gameruledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\dtos\\gamedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\dtos\\gamedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|c:\\download\\fizzbuzzgame-main\\fizzbuzzgame-main\\fizzbuzzgame.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EAFB9-A5CF-4DF3-A1E5-964E4722CD5A}|FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj|solutionrelative:fizzbuzzgame.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTests.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\GameTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server.Tests\\GameTests.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\GameTests.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server.Tests\\GameTests.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:55:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRuleTests.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\GameRuleTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server.Tests\\GameRuleTests.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\GameRuleTests.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server.Tests\\GameRuleTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:55:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FizzBuzzGame.Server.Tests.csproj",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj",
+              "RelativeToolTip": "FizzBuzzGame.Server.Tests\\FizzBuzzGame.Server.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T20:51:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDTOs.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\UserDTOs.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\DTOs\\UserDTOs.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\UserDTOs.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\DTOs\\UserDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:53:07.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttemptRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\AttemptRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Repositories\\AttemptRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\AttemptRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Repositories\\AttemptRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:07:33.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:03:17.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAttemptRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IAttemptRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IAttemptRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IAttemptRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IAttemptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:06:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameRuleRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRuleRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRuleRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRuleRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:59:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IRepositories\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:59:11.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAttemptService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IAttemptService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IServices\\IAttemptService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IAttemptService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IServices\\IAttemptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:06:52.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGameRuleService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IGameRuleService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IServices\\IGameRuleService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IGameRuleService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IServices\\IGameRuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:32.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FizzBuzzGameDbContext.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Data\\FizzBuzzGameDbContext.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Data\\FizzBuzzGameDbContext.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Data\\FizzBuzzGameDbContext.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Data\\FizzBuzzGameDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:32:21.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttemptTests.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\AttemptTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server.Tests\\AttemptTests.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server.Tests\\AttemptTests.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server.Tests\\AttemptTests.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttemptDTOs.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\AttemptDTOs.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\DTOs\\AttemptDTOs.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\AttemptDTOs.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\DTOs\\AttemptDTOs.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:44:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OwnerShip.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\OwnerShip.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\OwnerShip.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\OwnerShip.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\OwnerShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:32:14.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\Attempt.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Attempt.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\Attempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:32:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameRuleController.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\GameRuleController.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Controllers\\GameRuleController.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\GameRuleController.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Controllers\\GameRuleController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:07:48.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Interfaces\\IServices\\IGameService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Interfaces\\IServices\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:57:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\GameController.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:07:52.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttemptController.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\AttemptController.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Controllers\\AttemptController.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Controllers\\AttemptController.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Controllers\\AttemptController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:24.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserMappers.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\UserMappers.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Mappers\\UserMappers.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\UserMappers.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Mappers\\UserMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:39.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameRuleMappers.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\GameRuleMappers.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Mappers\\GameRuleMappers.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\GameRuleMappers.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Mappers\\GameRuleMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttemptMappers.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\AttemptMappers.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Mappers\\AttemptMappers.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\AttemptMappers.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Mappers\\AttemptMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:34.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameMappers.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\GameMappers.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Mappers\\GameMappers.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Mappers\\GameMappers.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Mappers\\GameMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:08:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Services\\GameService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\GameService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Services\\GameService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:07:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FizzBuzzGame.Server.csproj",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj",
+              "RelativeToolTip": "FizzBuzzGame.Server\\FizzBuzzGame.Server.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T09:18:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\User.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:51:05.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameRule.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\GameRule.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\GameRule.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\GameRule.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\GameRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:30:08.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\Role.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Role.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:30:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameRuleService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\GameRuleService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Services\\GameRuleService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\GameRuleService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Services\\GameRuleService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:07:08.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AttemptService.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\AttemptService.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Services\\AttemptService.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Services\\AttemptService.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Services\\AttemptService.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAYwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:06:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Models\\Game.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Models\\Game.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:32:12.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameRuleRepository.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\GameRuleRepository.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Repositories\\GameRuleRepository.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Repositories\\GameRuleRepository.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Repositories\\GameRuleRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:02:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameRuleDTOs.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\GameRuleDTOs.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\DTOs\\GameRuleDTOs.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\GameRuleDTOs.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\DTOs\\GameRuleDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:50:09.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameDTOs.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\GameDTOs.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\DTOs\\GameDTOs.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\DTOs\\GameDTOs.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\DTOs\\GameDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:48:40.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzzGame.Server\\Program.cs",
+              "ToolTip": "C:\\Download\\FizzBuzzGame-main\\FizzBuzzGame-main\\FizzBuzzGame.Server\\Program.cs",
+              "RelativeToolTip": "FizzBuzzGame.Server\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:17:09.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

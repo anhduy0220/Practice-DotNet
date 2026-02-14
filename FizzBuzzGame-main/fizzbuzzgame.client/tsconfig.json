@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "types": [ "vitest/globals" ]
+  },
+  "exclude": [
+    "node_modules",
+    "src/components/__tests__" // Exclude the tests folder within components
+  ]
+
+}
