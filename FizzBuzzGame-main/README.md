@@ -47,7 +47,7 @@ Before running the application, make sure you have the following installed:
 ## 🚀 How to Run the Application
 
 1. **Clone the repository**:
-- git clone https://github.com/giangdo888/FizzBuzzGame.git
+- git clone https://github.com/anhduy0220/Practice-DotNet.git
 - cd FizzBuzzGame
 
 ### 2. Set Up Docker Containers
